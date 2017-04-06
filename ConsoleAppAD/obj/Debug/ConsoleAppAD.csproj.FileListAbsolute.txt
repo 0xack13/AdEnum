@@ -1,0 +1,6 @@
+c:\users\sbata\onedrive\documents\visual studio 2015\Projects\ConsoleAppAD\ConsoleAppAD\bin\Debug\ConsoleAppAD.exe.config
+c:\users\sbata\onedrive\documents\visual studio 2015\Projects\ConsoleAppAD\ConsoleAppAD\bin\Debug\ConsoleAppAD.exe
+c:\users\sbata\onedrive\documents\visual studio 2015\Projects\ConsoleAppAD\ConsoleAppAD\bin\Debug\ConsoleAppAD.pdb
+c:\users\sbata\onedrive\documents\visual studio 2015\Projects\ConsoleAppAD\ConsoleAppAD\obj\Debug\ConsoleAppAD.csprojResolveAssemblyReference.cache
+c:\users\sbata\onedrive\documents\visual studio 2015\Projects\ConsoleAppAD\ConsoleAppAD\obj\Debug\ConsoleAppAD.exe
+c:\users\sbata\onedrive\documents\visual studio 2015\Projects\ConsoleAppAD\ConsoleAppAD\obj\Debug\ConsoleAppAD.pdb
